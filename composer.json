@@ -1,0 +1,22 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Lucids\\": "app/Lucids"
+        }
+    },
+    "require": {
+        "slim/slim": "^2.6",
+        "illuminate/database": "^5.1",
+        "slim/views": "^0.1.3",
+        "twig/twig": "^1.21",
+        "alexgarrett/violin": "^2.2",
+        "phpmailer/phpmailer": "^5.2",
+        "hassankhan/config": "^0.8.2",
+        "ircmaxell/random-lib": "^1.1",
+        "hybridauth/hybridauth": "^2.5",
+        "verot/class.upload.php": "dev-master",
+        "intervention/image": "^2.3",
+        "livecontrol/eloquent-datatable": "^0.1.5",
+        "google/recaptcha": "~1.1"
+    }
+}
