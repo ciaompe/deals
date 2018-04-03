@@ -41,7 +41,7 @@ return [
 		'host' => 'localhost',
 		'database' => 'deals',
         	'username' => 'root',
-        	'password' => 'e97adada80157a17c4b0c9b8b3707fd9d358f937d480a648',
+        	'password' => '',
 		'charset' => 'utf8',
 		'collation' => 'utf8_unicode_ci',
 		'prefix' => ''
