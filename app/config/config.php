@@ -71,11 +71,11 @@ return [
 	    "providers"  => [
 	        "Google"   => [
 	            "enabled" => true,
-	            "keys"    => [ "id" => "635456881764-gjkbvjpmpq2ia91q27qk2l2u6bcnu49k.apps.googleusercontent.com", "secret" => "L4zjbO1grzTR8mNyhsVbJtne" ],
+	            "keys"    => [ "id" => "", "secret" => "" ],
 	        ],
 	        "Facebook" => [
 	            "enabled" => true,
-	            "keys"    => [ "id" => "845876008853367", "secret" => "958c64f3559ca9764efe0fff01112cfa" ],
+	            "keys"    => [ "id" => "", "secret" => "" ],
 	            "scope"   => "email, user_about_me, user_birthday, user_hometown"
 	        ],
 	        "Twitter"  => [
@@ -88,8 +88,8 @@ return [
 	],
 	
 	'recaptcha' => [
-        'secret' => '6LewWQ8TAAAAAIXgUyx0_bf7fOIzzw98TBSMtW07',
-        'siteKey' => '6LewWQ8TAAAAAIAhgmVHYYNX1ale9Y8EmsBUJ6RP'
+        'secret' => '',
+        'siteKey' => ''
     ],
 
     'images' => [
